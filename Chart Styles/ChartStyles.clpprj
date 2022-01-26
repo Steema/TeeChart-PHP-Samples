@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\ChartStyles.clpprj">
+	<settings><PM_URL><![CDATA[D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\]]></PM_URL><PM_HOME_URL><![CDATA[D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Area2D.php"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Area3D.php"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Bar2D.php"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Donut3D.php"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Volume.php" crc="1516628134"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\StackedBar.php" crc="1516627622"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\StackedArea.php" crc="1516627726"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Smith.php" crc="1516628166"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Shapes.php" crc="1516628226"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\ScatterPlot.php" crc="1516627798"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Pyramid.php" crc="1516628158"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Polar.php" crc="1516627947"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Points3D.php" crc="1516627847"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Points.php" crc="1516627807"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Pie3D.php" crc="1516627995"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Pie.php" crc="1516627518"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\MultiLine2D.php" crc="1516627559"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\MultiArea3D.php" crc="1517232865"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\MultiArea2DStacked.php" crc="1517232745"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\LogarithmicAxis.php" crc="1516627675"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\LinePoint2D.php" crc="1516627640"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\LineBar.php" crc="1516627976"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Line3D.php" crc="1516627550"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Line2D.php" crc="1516627543"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\HorizontalLine.php" crc="1516627574"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\HorizontalHistogram.php" crc="1516628116"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\HorizontalBar.php" crc="1516627529"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\HorizontalArea.php" crc="1516627591"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Histogram.php" crc="1516628109"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\HighLow.php" crc="1516628099"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Gantt3D.php" crc="1516628020"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Gantt.php" crc="1516627613"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Funnel.php" crc="1516628084"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\FastLine.php" crc="1516706872"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\ErrorPoint.php" crc="1516628072"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\ErrorBar.php" crc="1516628064"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Error.php" crc="1516628055"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Donut3D.php" crc="1516628004"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Donut.php" crc="1516627496"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Candle.php" crc="1516627605"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Bubble3D.php" crc="1516627836"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Bubble2D.php" crc="1516627829"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Bezier.php" crc="1516628150"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Bar3D.php" crc="1516625847"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Bar2D.php" crc="1516624806"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Area3D.php" crc="1518529661"/>
+		<file name="D:\steema\root\TeeChartPHP\TeeChartPHP\Demos\Chart Styles\Standard\Area2D.php" crc="1517229940"/>
+	</filescache>
+</project>
